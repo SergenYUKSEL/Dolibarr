@@ -1,0 +1,7 @@
+#Thu May 06 08:23:29 CEST 2021
+base.0=C\:\\xampp\\htdocs\\dolibarrapp_20yuksel\\20Yuksel_Dolibarr\\platforms\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes_0.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\xampp\\htdocs\\dolibarrapp_20yuksel\\20Yuksel_Dolibarr\\platforms\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_0.dex

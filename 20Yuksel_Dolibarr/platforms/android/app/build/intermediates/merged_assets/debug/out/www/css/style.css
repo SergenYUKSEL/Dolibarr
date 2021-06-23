@@ -1,0 +1,46 @@
+* {
+    background-color:  rgb(0, 183, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+main {
+    width: 80%;
+    border: 1px solid lightgray;
+    padding: 20px;
+    border-radius: 5px;
+    position: relative;
+    margin-left: 4%;
+}
+
+input {
+    display: block;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.page {
+    display: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+.page-num {
+    border: 1px solid blue;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    padding: 10px;
+}
+.active {
+    color: white;
+    background-color: blue;
+}
+.copyright {
+    display: flex;
+    justify-content: center;
+}
